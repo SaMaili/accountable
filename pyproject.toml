@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "accountable"
+version = "0.1.0"
+description = "MVP core modules for Accountable app"
+authors = [{name = "Accountable Team"}]
+requires-python = ">=3.10"
